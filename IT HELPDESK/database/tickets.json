@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1795013530795",
+        "title": "afs",
+        "description": "npx nodemon --version",
+        "category": "Software",
+        "priority": "Low",
+        "requester": "darhsan",
+        "assignedTo": "vishal",
+        "status": "Closed",
+        "createdAt": "2026-11-18T14:52:10.795Z",
+        "updatedAt": "2026-11-18T15:46:46.379Z",
+        "history": [
+            {
+                "status": "Closed",
+                "note": "Status changed to Closed",
+                "date": "2026-11-18T15:46:46.379Z"
+            }
+        ]
+    },
+    {
+        "id": "1795015837862",
+        "title": "laptop not wok",
+        "description": "laptop not woklaptop not woklaptop not woklaptop not woklaptop not woklaptop not woklaptop not woklaptop not woklaptop not woklaptop not woklaptop not woklaptop not woklaptop not woklaptop not wok",
+        "category": "Hardware",
+        "priority": "Critical",
+        "requester": "System Administrator",
+        "requesterEmail": "admin@helpdesk.com",
+        "assignedTo": "Not Assigned",
+        "assignedToId": "",
+        "status": "Resolved",
+        "createdAt": "2026-11-18T15:30:37.862Z",
+        "updatedAt": "2026-11-18T15:44:22.301Z",
+        "history": [
+            {
+                "status": "Open",
+                "note": "Ticket created",
+                "date": "2026-11-18T15:30:37.862Z"
+            },
+            {
+                "status": "In Progress",
+                "note": "Status changed to In Progress",
+                "date": "2026-11-18T15:30:57.928Z"
+            },
+            {
+                "status": "Resolved",
+                "note": "Status changed to Resolved",
+                "date": "2026-11-18T15:44:22.301Z"
+            }
+        ]
+    },
+    {
+        "id": "1795016638307",
+        "title": "laptop not wok apple",
+        "description": "j21661605@gmail.com",
+        "category": "Hardware",
+        "priority": "Critical",
+        "requester": "System Administrator",
+        "requesterEmail": "admin@helpdesk.com",
+        "assignedTo": "darshan",
+        "assignedToId": "1795016335227",
+        "status": "Assigned",
+        "createdAt": "2026-11-18T15:43:58.306Z",
+        "updatedAt": "2026-11-18T15:44:09.066Z",
+        "history": [
+            {
+                "status": "Open",
+                "note": "Ticket created",
+                "date": "2026-11-18T15:43:58.306Z"
+            },
+            {
+                "status": "Assigned",
+                "note": "Assigned to darshan",
+                "date": "2026-11-18T15:44:09.066Z"
+            }
+        ]
+    },
+    {
+        "id": "1795459221203",
+        "title": "Laptop Issue",
+        "description": "Laptop is not working",
+        "category": "Hardware",
+        "priority": "High",
+        "requester": "Darshan",
+        "requesterEmail": "",
+        "assignedTo": "Not Assigned",
+        "assignedToId": "",
+        "status": "Open",
+        "createdAt": "2026-11-23T18:40:21.203Z",
+        "updatedAt": "2026-11-23T18:40:21.203Z",
+        "history": [
+            {
+                "status": "Open",
+                "note": "Ticket created",
+                "date": "2026-11-23T18:40:21.203Z"
+            }
+        ]
+    }
+]

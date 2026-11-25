@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "System Administrator",
+        "email": "admin@helpdesk.com",
+        "password": "admin123",
+        "role": "Admin"
+    },
+    {
+        "id": "1795016335227",
+        "name": "darshan",
+        "email": "qqq@helpdesk.com",
+        "password": "12345",
+        "role": "IT Staff"
+    },
+    {
+        "id": "1795016545665",
+        "name": "vikash",
+        "email": "j21661605@gmail.com",
+        "password": "12345",
+        "role": "IT Staff"
+    }
+]

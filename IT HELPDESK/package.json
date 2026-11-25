@@ -1,0 +1,22 @@
+{
+  "name": "it-helpdesk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon gateway/gateway.js",
+    "users": "nodemon user-service/user.js",
+    "tickets": "nodemon ticket-service/ticket.js",
+    "gateway": "nodemon gateway/gateway.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.21.1",
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
